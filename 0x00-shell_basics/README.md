@@ -19,3 +19,5 @@
 [8. Bye bye Betty](8-firstdelete) - Delete the file betty. The file betty is in /tmp/my_first_directory
 
 [9. Bye bye My first directory](9-firstdirdeletion) - Delete the directory my_first_directory that is in the /tmp directory.
+
+[10. Back to the future](10-back) - Write a script that changes the working directory to the previous one.
