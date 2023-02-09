@@ -38,3 +38,5 @@
 [17. Tree](102-tree) - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. You are only allowed to use two spaces (and lines) in your script, not more.
 
 [18. Life is a series of commas, not periods](103-commas) - Write a command that lists all the files and directories of the current directory, separated by commas (,).
+
+[19. File type: School](school.mgc) - Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
