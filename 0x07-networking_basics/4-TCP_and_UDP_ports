@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# Bash script displays listenting sockets(-l) and PID(-p)
-
-# netstat --listening --program
-# OR
-# netstat -lp
-
-netstat -ltup
